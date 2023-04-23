@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.box{
+	width:300px;
+	text-align:center;
+	background-color:lightblue;
+	border:2px solid black;
+	padding:100px 50px;
+}
+section{
+	height:500px;
+	display:flex;
+	justify-content: center;
+    align-items: center;
+}
